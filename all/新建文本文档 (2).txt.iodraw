@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" compressed="true" version="24.7.17">
   <diagram id="scheme3" name="方案3-坝基岩体完整性精细评价">
-    <mxGraphModel dx="1157" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
+    <mxGraphModel dx="463" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -274,6 +274,15 @@
         </mxCell>
         <mxCell id="Bouter" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#777777;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="49" y="495" width="769" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="hWRShcImiagUB_ss21o6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Btitle" target="B3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="434" y="552" />
+              <mxPoint x="630" y="552" />
+              <mxPoint x="630" y="577" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Btitle" value="完整性精细评价成果与工程应用" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=14;fillColor=#f9e9e7;strokeColor=#b63b32;strokeWidth=1.4;fontColor=#b63b32;fontSize=20;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="280" y="503" width="307" height="29" as="geometry" />
