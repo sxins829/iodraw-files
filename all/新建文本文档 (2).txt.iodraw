@@ -154,7 +154,7 @@
         <mxCell id="geo" value="声学&lt;br&gt;测试" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#dceaff;strokeColor=#5b8fcf;" parent="1" vertex="1">
           <mxGeometry x="350" y="186" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="mech" value="声学&lt;br&gt;基础" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#dfecc4;strokeColor=#7e9f45;" parent="1" vertex="1">
+        <mxCell id="mech" value="图像&lt;div&gt;处理&lt;/div&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#dfecc4;strokeColor=#7e9f45;" parent="1" vertex="1">
           <mxGeometry x="458" y="186" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="pred" value="融合&lt;br&gt;评价" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#e5ddae;strokeColor=#aa9b4c;" parent="1" vertex="1">
