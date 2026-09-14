@@ -1,13 +1,13 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" compressed="true" version="24.7.17">
   <diagram id="scheme3" name="方案3-坝基岩体完整性精细评价">
-    <mxGraphModel dx="808" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="exp" value="&lt;b&gt;实验测试技术&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot;&gt;单孔声波、对穿声波、地震波 CT、&lt;br&gt;钻孔全景成像测试&lt;/font&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=16;fillColor=#f7f7f7;strokeColor=#7f7f7f;strokeWidth=1.5;fontColor=#222222;verticalAlign=middle;fontSize=20;" parent="1" vertex="1">
           <mxGeometry x="48" y="28" width="283" height="85" as="geometry" />
         </mxCell>
-        <mxCell id="means" value="研究&lt;br&gt;&lt;b&gt;手段&lt;/b&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=16;fillColor=#f7f7f7;strokeColor=#7f7f7f;strokeWidth=1.5;fontColor=#222222;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
+        <mxCell id="means" value="&lt;b&gt;研究&lt;br&gt;手段&lt;/b&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=16;fillColor=#f7f7f7;strokeColor=#7f7f7f;strokeWidth=1.5;fontColor=#222222;verticalAlign=middle;fontSize=21;" parent="1" vertex="1">
           <mxGeometry x="389" y="35" width="91" height="76" as="geometry" />
         </mxCell>
         <mxCell id="analysis" value="&lt;b&gt;分析方法&lt;/b&gt;&lt;br&gt;&lt;font style=&quot;font-size:15px&quot;&gt;地质调研、地质统计学、图像智能识别、&lt;br&gt;随机森林分类、敏感性分析&lt;/font&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=16;fillColor=#f7f7f7;strokeColor=#7f7f7f;strokeWidth=1.5;fontColor=#222222;verticalAlign=middle;fontSize=20;" parent="1" vertex="1">
