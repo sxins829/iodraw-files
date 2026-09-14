@@ -350,6 +350,12 @@
             <mxPoint x="329" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="hWRShcImiagUB_ss21o6-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phys" target="Mouter">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="433" y="338" as="sourcePoint" />
+            <mxPoint x="538" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Mouter" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#777777;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="43" y="361" width="769" height="122" as="geometry" />
         </mxCell>
