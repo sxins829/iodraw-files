@@ -189,9 +189,6 @@
         <mxCell id="hWRShcImiagUB_ss21o6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mouter" target="M3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWRShcImiagUB_ss21o6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mouter" target="M3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="hWRShcImiagUB_ss21o6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="phys">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432.5" y="360" as="targetPoint" />
