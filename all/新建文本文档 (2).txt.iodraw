@@ -275,11 +275,12 @@
         <mxCell id="Bouter" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#777777;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="49" y="495" width="769" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="hWRShcImiagUB_ss21o6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.262;entryY=-0.018;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Btitle" target="Bright">
+        <mxCell id="hWRShcImiagUB_ss21o6-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.492;entryY=-0.03;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="Btitle" target="Bright">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="434" y="540" />
               <mxPoint x="539" y="540" />
+              <mxPoint x="539" y="546" />
             </Array>
           </mxGeometry>
         </mxCell>
