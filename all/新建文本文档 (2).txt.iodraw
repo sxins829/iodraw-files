@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" compressed="true" version="24.7.17">
   <diagram id="scheme3" name="方案3-坝基岩体完整性精细评价">
-    <mxGraphModel dx="129" dy="70" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
+    <mxGraphModel dx="154" dy="84" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,10 +91,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="l23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#222222;strokeWidth=1.5;endArrow=block;endFill=1;entryX=-0.017;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="L2" target="L3" edge="1">
+        <mxCell id="l23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#222222;strokeWidth=1.5;endArrow=block;endFill=1;entryX=-0.017;entryY=0.503;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="178.99999999999994" y="282.39814814814815" as="sourcePoint" />
+            <mxPoint x="198.11600000000004" y="282.36" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="190" y="282" />
+              <mxPoint x="191" y="282" />
             </Array>
           </mxGeometry>
         </mxCell>
