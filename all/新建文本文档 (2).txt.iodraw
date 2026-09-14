@@ -272,12 +272,6 @@
             <mxPoint x="244" y="410" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mbrace2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#222222;strokeWidth=1.4;endArrow=none;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="242" y="410" as="sourcePoint" />
-            <mxPoint x="621" y="410" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mbrace3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#222222;strokeWidth=1.4;endArrow=none;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="623" y="410" as="sourcePoint" />
