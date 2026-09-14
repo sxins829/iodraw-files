@@ -348,7 +348,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Mouter" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#777777;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
-          <mxGeometry x="43" y="361" width="769" height="122" as="geometry" />
+          <mxGeometry x="43" y="353" width="769" height="122" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
