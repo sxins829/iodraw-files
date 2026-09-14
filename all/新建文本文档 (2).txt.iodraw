@@ -240,7 +240,12 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="hWRShcImiagUB_ss21o6-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Mtitle" target="Btitle">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="433" y="420" />
+              <mxPoint x="434" y="420" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Mtitle" value="坝基岩体完整性评价与重点层段识别" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=14;fillColor=#f9e9e7;strokeColor=#b63b32;strokeWidth=1.4;fontColor=#b63b32;fontSize=20;verticalAlign=middle;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="279" y="372" width="308" height="29" as="geometry" />
