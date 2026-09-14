@@ -192,12 +192,6 @@
             <mxPoint x="445" y="285" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cp" style="edgeStyle=none;html=1;strokeColor=#9a9a9a;strokeWidth=2;endArrow=none;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="432" y="278" as="sourcePoint" />
-            <mxPoint x="432" y="283" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="leftcenter" style="edgeStyle=none;html=1;strokeColor=#6f9fd3;strokeWidth=2;dashed=1;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349" y="212" as="sourcePoint" />
@@ -210,7 +204,7 @@
             <mxPoint x="534" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="downL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=8;endArrow=block;endFill=1;" parent="1" edge="1">
+        <mxCell id="downL" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=8;endArrow=block;endFill=1;jumpSize=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="186" y="345" as="sourcePoint" />
             <mxPoint x="186" y="369" as="targetPoint" />
