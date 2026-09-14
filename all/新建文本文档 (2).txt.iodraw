@@ -112,6 +112,9 @@
         <mxCell id="Rtitle" value="钻孔成像结构识别&lt;br&gt;与空间几何表征" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=14;fillColor=#f9e9e7;strokeColor=#b63b32;strokeWidth=1.4;fontColor=#b63b32;fontSize=20;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="548" y="132" width="254" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="hWRShcImiagUB_ss21o6-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Rinner" target="M4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="Rinner" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#4f91d9;strokeWidth=1.5;dashed=1;dashPattern=4 3;" parent="1" vertex="1">
           <mxGeometry x="542" y="212" width="266" height="132" as="geometry" />
         </mxCell>
