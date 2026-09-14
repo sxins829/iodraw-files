@@ -322,9 +322,6 @@
         <mxCell id="caption" value="&lt;b&gt;图 8&amp;nbsp;&amp;nbsp;课题总技术路线&lt;/b&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontFamily=SimSun;fontSize=23;verticalAlign=middle;" parent="1" vertex="1">
           <mxGeometry x="260" y="632" width="335" height="32" as="geometry" />
         </mxCell>
-        <mxCell id="watermark" value="&lt;font color=&quot;#dddddd&quot;&gt;地灾研判&lt;/font&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;fontSize=56;rotation=-35;opacity=55;" parent="1" vertex="1">
-          <mxGeometry x="410" y="453" width="230" height="150" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
