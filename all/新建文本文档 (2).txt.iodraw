@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" compressed="true" version="24.7.17">
   <diagram id="scheme3" name="方案3-坝基岩体完整性精细评价">
-    <mxGraphModel dx="468" dy="303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
+    <mxGraphModel dx="976" dy="631" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,9 +149,6 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#222222;strokeWidth=1.5;endArrow=block;endFill=1;" parent="1" source="R3" target="R4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="hWRShcImiagUB_ss21o6-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="geo" target="L4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="geo" value="地质&lt;br&gt;基础" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#dceaff;strokeColor=#5b8fcf;" parent="1" vertex="1">
