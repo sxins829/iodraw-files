@@ -163,7 +163,10 @@
         <mxCell id="hWRShcImiagUB_ss21o6-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phys" target="M3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="phys" value="统计&lt;br&gt;基础" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#e9def2;strokeColor=#8b6ca7;" parent="1" vertex="1">
+        <mxCell id="hWRShcImiagUB_ss21o6-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="phys" target="M3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="phys" value="统计&lt;br&gt;分析" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#e9def2;strokeColor=#8b6ca7;" parent="1" vertex="1">
           <mxGeometry x="405" y="283" width="55" height="55" as="geometry" />
         </mxCell>
         <mxCell id="cg" style="edgeStyle=none;html=1;strokeColor=#9a9a9a;strokeWidth=2;endArrow=none;" parent="1" edge="1">
