@@ -189,7 +189,7 @@
         <mxCell id="pred" value="融合&lt;br&gt;评价" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;ellipse;aspect=fixed;strokeWidth=1.5;fontSize=16;fontStyle=1;verticalAlign=middle;fillColor=#e5ddae;strokeColor=#aa9b4c;" parent="1" vertex="1">
           <mxGeometry x="403" y="216" width="57" height="57" as="geometry" />
         </mxCell>
-        <mxCell id="hWRShcImiagUB_ss21o6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" edge="1" parent="1" source="phys">
+        <mxCell id="hWRShcImiagUB_ss21o6-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fillColor=#e1d5e7;strokeColor=none;shape=flexArrow;" edge="1" parent="1" source="phys">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432.5" y="360" as="targetPoint" />
           </mxGeometry>
