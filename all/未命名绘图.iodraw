@@ -4,6 +4,200 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="geBBTiKlILD_LyA4RkaP-1" value="基于多源声学与钻孔成像的坝基岩体完整性评价关键技术研究" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="20" width="250" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-2" value="核心科学问题&#xa;多尺度声学响应差异及结构约束机制不明确" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="320" y="30" width="255" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-3" value="总体目标&#xa;构建声学—结构特征融合的坝基岩体完整性评价方法" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="322" y="164" width="252" height="74" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-4" value="实验测试技术：单孔声波、对穿声波、地震波 CT 与钻孔全景成像" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="628" y="38" width="252" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-5" value="分析方法：地质调研、地质统计学、图像智能识别、随机森林分类、敏感性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1092" y="32" width="252" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-6" value="多尺度声学特征与波速关联" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="630" y="178" width="228" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-7" value="结构面智能识别与空间几何表征" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1100" y="178" width="256" height="46" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-8" value="同层位单孔—对穿资料配对" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="644" y="294" width="201" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-9" value="多尺度声学特征提取&#xa;近孔波速、孔间等效波速与异常响应" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="618" y="395" width="252" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-10" value="配对统计与分层回归分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="648" y="508" width="192" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-11" value="典型工况数值正演&#xa;岩体结构与测试几何影响分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="866" y="609" width="216" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-12" value="路径产出&#xa;单孔—对穿波速关联关系、适用条件与不确定性" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="850" y="716" width="249" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-13" value="结构面、裂隙与局部破碎带&#xa;候选信息提取" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1126" y="287" width="204" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-14" value="连续边界识别与几何曲线重建" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1120" y="401" width="216" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-15" value="结构面空间几何参数提取&#xa;位置、产状、延展特征与发育程度" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="502" width="240" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-16" value="人工判读与工程地质资料校核" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1386" y="616" width="216" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-17" value="路径产出&#xa;结构面空间几何参数集与分层结构特征指标" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1368" y="716" width="252" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-18" value="多尺度声学传播基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="890" y="508" width="168" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-19" value="工程地质与岩体结构基础" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1398" y="508" width="192" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-20" value="坝基岩体完整性评价与重点层段识别&#xa;声学特征、结构参数与工程地质证据协同融合" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="837" width="256" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-21" value="相对完整性分类、多源证据一致性判别与不确定性分析" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1108" y="979" width="252" height="57" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-22" value="最终成果&#xa;坝基岩体完整性精细评价方法、重点层段识别结果与重点部位核查建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1106" y="1086" width="256" height="92" as="geometry" />
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-23" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-2" target="geBBTiKlILD_LyA4RkaP-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.27;exitY=1.01;entryX=0.28;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-4" target="geBBTiKlILD_LyA4RkaP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="609" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.88;exitY=1.01;entryX=0.16;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-4" target="geBBTiKlILD_LyA4RkaP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="996" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.88;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-5" target="geBBTiKlILD_LyA4RkaP-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="976" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.54;exitY=1;entryX=0.52;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-5" target="geBBTiKlILD_LyA4RkaP-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1238" y="139" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-6" target="geBBTiKlILD_LyA4RkaP-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-8" target="geBBTiKlILD_LyA4RkaP-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-30" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-9" target="geBBTiKlILD_LyA4RkaP-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-31" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.06;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-10" target="geBBTiKlILD_LyA4RkaP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="744" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-32" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-11" target="geBBTiKlILD_LyA4RkaP-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-33" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-7" target="geBBTiKlILD_LyA4RkaP-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-34" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-13" target="geBBTiKlILD_LyA4RkaP-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-35" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-14" target="geBBTiKlILD_LyA4RkaP-15">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-15" target="geBBTiKlILD_LyA4RkaP-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1228" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-16" target="geBBTiKlILD_LyA4RkaP-17">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-38" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-18" target="geBBTiKlILD_LyA4RkaP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-39" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-19" target="geBBTiKlILD_LyA4RkaP-16">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-40" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.81;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-19" target="geBBTiKlILD_LyA4RkaP-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1101" y="584" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.12;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-12" target="geBBTiKlILD_LyA4RkaP-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="974" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=1;entryY=0.12;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-17" target="geBBTiKlILD_LyA4RkaP-20">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1494" y="812" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-43" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-20" target="geBBTiKlILD_LyA4RkaP-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="geBBTiKlILD_LyA4RkaP-44" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="geBBTiKlILD_LyA4RkaP-21" target="geBBTiKlILD_LyA4RkaP-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
