@@ -236,7 +236,7 @@
             <mxPoint x="186" y="369" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="downR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=8;endArrow=block;endFill=1;" parent="1" edge="1">
+        <mxCell id="downR" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=3;endArrow=block;endFill=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="676" y="345" as="sourcePoint" />
             <mxPoint x="676" y="369" as="targetPoint" />
