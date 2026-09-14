@@ -266,7 +266,7 @@
         <mxCell id="m34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#222222;strokeWidth=1.5;endArrow=block;endFill=1;" parent="1" source="M3" target="M4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="mdown" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=4;endArrow=block;endFill=1;endSize=3;" parent="1" edge="1">
+        <mxCell id="mdown" style="edgeStyle=orthogonalEdgeStyle;rounded=0;html=1;strokeColor=#aaaaaa;strokeWidth=4;endArrow=block;endFill=1;endSize=3;startSize=3;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="432" y="478" as="sourcePoint" />
             <mxPoint x="432" y="502" as="targetPoint" />
