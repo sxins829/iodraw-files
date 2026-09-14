@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Safari/537.36 Edg/153.0.0.0" compressed="true" version="24.7.17">
   <diagram id="scheme3" name="方案3-坝基岩体完整性精细评价">
-    <mxGraphModel dx="319" dy="174" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
+    <mxGraphModel dx="463" dy="252" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="852" pageHeight="674" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -118,7 +118,7 @@
         <mxCell id="R1" value="结构面&lt;br&gt;裂隙&lt;br&gt;破碎带&lt;br&gt;候选&lt;br&gt;提取" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;fillColor=#e8f0fb;strokeColor=#5b8fcf;strokeWidth=1.3;fontColor=#222222;fontSize=16;verticalAlign=middle;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="548" y="222" width="52" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="R2" value="连续&lt;br&gt;边界&lt;br&gt;识别&lt;br&gt;曲线&lt;br&gt;几何重建" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;fillColor=#e8f0fb;strokeColor=#5b8fcf;strokeWidth=1.3;fontColor=#222222;fontSize=16;verticalAlign=middle;fontSize=13;" parent="1" vertex="1">
+        <mxCell id="R2" value="连续&lt;br&gt;边界&lt;br&gt;识别&lt;br&gt;曲线&lt;br&gt;几何&lt;div&gt;重建&lt;/div&gt;" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;fillColor=#e8f0fb;strokeColor=#5b8fcf;strokeWidth=1.3;fontColor=#222222;fontSize=16;verticalAlign=middle;fontSize=13;" parent="1" vertex="1">
           <mxGeometry x="614" y="222" width="52" height="120" as="geometry" />
         </mxCell>
         <mxCell id="R3" value="位置&lt;br&gt;产状&lt;br&gt;延展&lt;br&gt;发育&lt;br&gt;程度提取" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;fillColor=#e8f0fb;strokeColor=#5b8fcf;strokeWidth=1.3;fontColor=#222222;fontSize=16;verticalAlign=middle;fontSize=13;" parent="1" vertex="1">
