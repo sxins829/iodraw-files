@@ -221,7 +221,7 @@
             <mxPoint x="329" y="212" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="rightcenter" style="edgeStyle=none;html=1;strokeColor=#86ad4a;strokeWidth=2;dashed=1;endArrow=block;endFill=1;shape=flexArrow;endSize=3;fillColor=default;" parent="1" edge="1">
+        <mxCell id="rightcenter" style="edgeStyle=none;html=1;strokeColor=#86ad4a;strokeWidth=1;dashed=1;endArrow=block;endFill=1;shape=flexArrow;endSize=3;fillColor=default;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="513" y="212" as="sourcePoint" />
             <mxPoint x="534" y="212" as="targetPoint" />
@@ -310,7 +310,7 @@
         <mxCell id="b34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#222222;strokeWidth=1.5;endArrow=block;endFill=1;" parent="1" source="B3" target="B4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hWRShcImiagUB_ss21o6-5" style="edgeStyle=none;html=1;strokeColor=#6f9fd3;strokeWidth=2;dashed=1;endArrow=block;endFill=1;shape=flexArrow;" edge="1" parent="1">
+        <mxCell id="hWRShcImiagUB_ss21o6-5" style="edgeStyle=none;html=1;strokeColor=#6f9fd3;strokeWidth=2;dashed=1;endArrow=block;endFill=1;shape=flexArrow;endSize=3;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="349" y="212" as="sourcePoint" />
             <mxPoint x="329" y="212" as="targetPoint" />
