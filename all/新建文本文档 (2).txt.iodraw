@@ -275,7 +275,7 @@
         <mxCell id="Bouter" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#777777;strokeWidth=2;dashed=1;dashPattern=5 4;" parent="1" vertex="1">
           <mxGeometry x="49" y="495" width="769" height="119" as="geometry" />
         </mxCell>
-        <mxCell id="Btitle" value="完整性精细评价成果与工程支撑" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=14;fillColor=#f9e9e7;strokeColor=#b63b32;strokeWidth=1.4;fontColor=#b63b32;fontSize=20;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
+        <mxCell id="Btitle" value="完整性精细评价成果与工程应用" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=1;arcSize=14;fillColor=#f9e9e7;strokeColor=#b63b32;strokeWidth=1.4;fontColor=#b63b32;fontSize=20;verticalAlign=middle;fontSize=18;" parent="1" vertex="1">
           <mxGeometry x="280" y="503" width="307" height="29" as="geometry" />
         </mxCell>
         <mxCell id="Bleft" value="" style="fontFamily=Microsoft YaHei;html=1;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=#4f91d9;strokeWidth=1.5;dashed=1;dashPattern=4 3;" parent="1" vertex="1">
